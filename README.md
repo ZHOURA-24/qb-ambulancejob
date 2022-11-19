@@ -1,3 +1,5 @@
+Original Repository https://github.com/qbcore-framework/qb-ambulancejob
+
 # qb-ambulancejob
 EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
 
